@@ -26,3 +26,6 @@ ActionBar是你的Activity中最重要的设计元素之一。尽管ActonBar是�
 
 #### [与其他应用的交互(Interacting with Other Apps)](intents/index.html)
 学习如何利用其他已经存在应用的既有功能来执行更进一步的用户任务。例如拍照或者在地图上查看某个地址。
+
+#### [使用系统权限)](permissions/index.html)
+学习如何使用Android 6.0 运行时权限。
